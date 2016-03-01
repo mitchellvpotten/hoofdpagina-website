@@ -1,0 +1,72 @@
+h1{
+	font-family: tahoma;
+	
+	
+}
+
+
+h2.formule1{
+	
+	font-family: tahoma;
+	color:#FFFF00;
+}
+
+body.sauber{
+	background-color: grey;
+	margin-left: 50px;
+	font-family: Verdana;
+	color: white;
+
+	
+}
+
+body.redbull{
+	background-color: black;
+	margin-left: 50px;
+	font-family: Verdana;
+	color: white;
+
+}
+
+
+a{
+	
+		color:white;
+	
+
+}
+
+body.ferrari{
+	background-color: red;
+	margin-left: 50px;
+	font-family: Verdana;
+	color: black;
+
+	
+}
+
+body.mercedes{
+	
+	background-color: grey;
+	margin-left: 50px;
+	font-family: Verdana;
+	color: white;
+	
+}
+
+body.williams{
+	background-color: black;
+	margin-left: 50px;
+	font-family: Verdana;
+	color: grey;
+}
+
+
+body.index{
+	background-color: black;
+	margin-left: 50px;
+	font-family: Verdana;
+	color: white;
+	
+}
+

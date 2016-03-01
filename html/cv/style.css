@@ -1,0 +1,25 @@
+h1{
+	font-family: times new roman;
+	color: red;
+	}
+
+ul{
+	list-style-type: none;
+}
+
+img{
+	margin-right: 15px;
+	width: 130px;
+	float: left;
+	}
+
+body{
+	background-color:black;
+	color: white;
+	} 
+
+
+.rechts {margin: auto;
+		float: right;
+		width: 40%;
+}	

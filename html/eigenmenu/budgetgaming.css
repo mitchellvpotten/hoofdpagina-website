@@ -1,0 +1,73 @@
+/* kieskeurig */
+
+div{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	background-color: white;
+
+}
+		
+body{
+	background-color: rgba(255,255,224,0.8);
+	font-family: Verdana;
+	font-size: 14px;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+ul.top-menu li{
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+ul.top-menu li a{
+	color: #ff4444;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+ul.top-menu {
+    text-align: center;
+	background-image: url("budgetgaming.png");
+	background-repeat: repeat-x;
+	margin-top: auto;
+	margin-left: auto;
+	padding-top: 225px;
+	padding-bottom: 50px;
+	
+	}
+
+ul.bottom-menu li{
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+	}
+
+ul.bottom-menu {
+	background-color: black;
+	text-align: center;
+	padding: 2px;
+}
+
+ul.bottom-menu li a{
+	color: white;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+ul.bottom-menu li a:hover{
+	text-decoration: underline;
+}
+
+div.content{
+	margin-left: 200px;
+}
+
+
+
+
+

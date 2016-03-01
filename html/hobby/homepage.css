@@ -1,0 +1,41 @@
+h1 {color: white;
+ background-color:rgba(192,192,192,0.3);
+ text-align: center;
+ margin: 0px;
+ padding: 30px;
+ 
+}
+
+img{ 
+ margin: auto;
+ float: right;
+ width: 15%;
+}
+
+h2{
+font-family:Verdana;
+color: white;
+padding:10px;
+}
+ 
+b {
+ color:  ;
+}
+body {
+ background-image: url("homepage.jpg");
+ background-size: 1350px 768px;
+ text-align: center;
+ background-repeat: no-repeat;
+ font-family: verdana;
+ background-position: center;
+	background-attachment: fixed;
+}
+div {
+ color: white;
+ width: 1300px;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: left;
+ border-style: solid;
+ padding: 12px;
+}

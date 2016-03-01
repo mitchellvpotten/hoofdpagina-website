@@ -1,0 +1,170 @@
+* {
+	margin : 0;
+	padding : 0;
+}
+
+body {
+	text-align : center;
+	font-family : Tahoma;
+	font-size : 14px;
+	background-color : black;
+	background-image : url(achtergrond.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	webkit-background-size: cover;
+	moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.all {
+	margin: auto;
+	min-height : 600px;
+	position : relative;
+	padding-top: 100px;
+}
+
+.content {
+
+	width: 700px;
+	margin: auto;
+	min-height : 400px;
+	position : relative;
+}
+
+.bar{
+	position: fixed;
+	bottom: 0px;
+	left: 0;
+	width: 100%;
+	z-index: 99%;
+	height: 25px;
+	background-image: url(bar1.png);
+	
+
+}
+
+.bar ul{
+	list-style: none;
+	padding: 2px;
+}
+
+.bar ul li{
+	display: inline;
+}
+
+.bar ul li a{
+	color: white;
+	text-decoration: none;
+	padding: 5px 25px;
+}
+
+.bar:hover{
+	background-image: url(bar2.png);
+}
+
+.bar:hover ul li a{
+	color: black;
+}
+
+#content{
+	
+	padding: 5px;
+	color: white;
+}
+
+#content p{
+	padding: 5px;
+}
+
+#title2{
+
+}
+
+.booten{
+	padding-bottom: 25px;
+	margin-bottom: 35px;
+}
+
+.booten2{
+	padding-bottom: 25px;
+	margin-bottom: 30px;
+}
+
+.boot1{
+	padding-bottom: 25px;
+	margin-bottom: 40px;
+	
+}
+
+#boot1{
+	float: bottom;
+}
+
+#boot3{
+	position: absolute;
+	right: 100px;
+	bottom: 150px;
+}
+
+#boot3:hover img{
+	width: 120px;
+}
+
+#boot5{
+	position: absolute;
+	right: 450px;
+	bottom: 150px;
+}
+
+#boot5:hover img{
+	width: 120px;
+}
+
+#duck{
+	position: absolute;
+	left: 850px;
+	top: 0px;
+	z-index: 20;
+}
+
+#duck2{
+	position: absolute;
+	right: 850px;
+	top: 0px;
+	z-index: 20;
+}
+
+#beker ul li{
+	background-color: white;
+	width: 100px;
+	padding: 2px;
+	;
+}
+
+#beker{
+	position: absolute;
+	right: 550px;
+	top: 0px;
+	z-index: 20;
+}
+
+#beker ul{
+	display: none;
+	list-style: none;
+	padding: 0px;
+	position: absolute;
+	top: 50 px;
+}
+
+#beker:hover ul{
+display: block;
+}
+
+#beker ul li a {
+	color: black;
+	text-decoration: none;
+}
+
+#beker ul li a:hover{
+	text-decoration: underline;
+}

@@ -1,0 +1,31 @@
+body{
+	background-size: 1350px 768px;
+	background-repeat:repeat;
+	color: white;
+	background-position: center;
+	background-attachment: fixed;
+	} 
+	
+	A {
+		text-decoration: red;
+		color:#BFFF00;
+	}
+	
+	
+	h1{
+	font-family: times new roman;
+	color: red;
+	}
+	
+	
+#nav {
+    line-height:30px;
+    background-color:grey;
+    height:300px;
+    width:120px;
+    float:left;
+    padding:5px;
+	
+}
+
+
